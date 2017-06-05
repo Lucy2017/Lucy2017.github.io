@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="iCloudBook">
-        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Testgit">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="iCloudBook"/>
-        <property name="java-output-path" value="/iCloudBook/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="/Testgit"/>
+        <property name="java-output-path" value="/Testgit/WebRoot/WEB-INF/classes"/>
     </wb-module>
 </project-modules>

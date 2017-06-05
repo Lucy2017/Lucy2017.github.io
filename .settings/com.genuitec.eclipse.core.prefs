@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/bootstrap/js,WebRoot/page/ysscbs/assets/js,WebRoot/js,WebRoot/assets/vendor/jquery/jquery.min.js,WebRoot/javascript/jquery-1.7.2.js
+validator.Unchecked=
